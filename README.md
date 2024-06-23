@@ -7,6 +7,9 @@ Ce projet modélise les différentes étapes de l'évolution stellaire en utilis
 ![Diagramme HR](Graphes/diag_final.png)
 ![Carte de densité du diagramme HR](Graphes/carte_densite.png)
 
+## Licence 
+Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails sur les conditions de licence.
+
 
 
 
